@@ -1,4 +1,4 @@
 # drg
 Dan's Report Generator
 
-run: ```python drg.py > deliverable/output.md```
+run: ```python3 drg.py > deliverable/output.md```
